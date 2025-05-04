@@ -9,7 +9,7 @@ const Hero = () => {
       if (window.innerWidth < 768) {
         setImageSrc("./mobile1.jpg");
       } else {
-        setImageSrc("./hero.jpg");
+        setImageSrc("../hero.jpg");
       }
     };
 

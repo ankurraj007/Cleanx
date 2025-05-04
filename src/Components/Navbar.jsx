@@ -9,7 +9,7 @@ const Navbar = () => {
     <nav className="w-full bg-white shadow-md fixed top-0 left-0 z-50">
       <div className="container mx-auto flex justify-between items-center py-4 px-6">
         <Link to="/">
-          <img src="/logo.png" className="w-36" alt="cleanX Logo" />
+          <img src="./logo.png" className="w-36" alt="cleanX Logo" />
         </Link>
 
         {/* Desktop */}
